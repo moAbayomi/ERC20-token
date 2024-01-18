@@ -1,11 +1,10 @@
 # Training 5 Assignment 
-## Deploying a ERC20-token on the Arbitrum Sepolia chain
-
+## Deployment and Verification of an ERC20 solidity contract on the Arbitrum Sepolia chain
 
 ERC20 solidity smart contract on Arbitrum Sepolia.
 
 Here is the contract address 
-0x4D8E1a96162A6E9741581B261C139Bef5eED811e
+**0x4D8E1a96162A6E9741581B261C139Bef5eED811e**
 
 ![image](https://github.com/moAbayomi/ERC20-token/assets/114200127/77976641-53d6-4a6d-8106-785ca3617d99)
 
